@@ -9,8 +9,8 @@ export const JournalPage = () => {
   return (
    <JournalLayout >
      {/* <Typography >Frease para validar un textowqiheroiwh qwerng eiurweijrq wrqwrhtbqwrjht qwjrtq tqtqwbhrtbñhqwbrtqbw rlt bqwrltbq rwehktb qlkrbt lqwrb tq wrt q</Typography> */}
-     <NothingSelectedView />
-     {/* <NoteView /> */}
+     {/* <NothingSelectedView /> */}
+     <NoteView />
      <IconButton 
       size='large'
       sx={{
